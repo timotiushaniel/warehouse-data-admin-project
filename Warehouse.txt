@@ -1,0 +1,4 @@
+W01,SRB Warehouse,Jl. Surabaya No. 69 Bandung
+W02,AMB Warehouse,Jl. Ambon No.36 Bandung
+W03,JWA Warehouse,Jl. Jawa No.123 Bandung
+W04,CRB Warehouse,Jl. Cirebon no. 12 Bandung
